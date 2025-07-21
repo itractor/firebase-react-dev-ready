@@ -1,6 +1,6 @@
 # Firebase Auth React App
 
-A React application with Firebase Authentication that allows users to register, log in, and make authenticated API calls to a backend service.
+A React application with Firebase Authentication that allows users to register, log in, and make authenticated API calls to a backend service. This is intended as a "quick start" when making MVPs.
 
 ## Features
 
